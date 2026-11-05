@@ -1,0 +1,39 @@
+{
+  "name": "T-Maps",
+  "identifier": "ru.tumowuh.tmaps.source",
+  "subtitle": "Личные карты и маршруты",
+  "iconURL": "https://raw.githubusercontent.com/squazaryu/t-maps-ipa/refs/heads/main/assets/t-maps-icon.png",
+  "website": "https://github.com/squazaryu/t-maps-ipa",
+  "apps": [
+    {
+      "name": "T-Maps",
+      "bundleIdentifier": "ru.tumowuh.tmaps",
+      "developerName": "T-Maps",
+      "subtitle": "Карты и маршруты",
+      "localizedDescription": "Личные карты для Москвы и Московской области: поиск мест, карта, маршруты и транспорт. Неподписанный технический кандидат.",
+      "iconURL": "https://raw.githubusercontent.com/squazaryu/t-maps-ipa/refs/heads/main/assets/t-maps-icon.png",
+      "version": "0.9.2",
+      "versionDate": "2026-11-05T11:53:52Z",
+      "downloadURL": "https://github.com/squazaryu/t-maps-ipa/releases/download/v0.9.2-rc.20/T-Maps-0.9.2-rc-20-unsigned.ipa",
+      "size": 396937718,
+      "versions": [
+        {
+          "version": "0.9.2",
+          "buildVersion": "20",
+          "date": "2026-11-05T11:53:52Z",
+          "localizedDescription": "Поиск по категориям, результаты на карте и значки заведений.",
+          "downloadURL": "https://github.com/squazaryu/t-maps-ipa/releases/download/v0.9.2-rc.20/T-Maps-0.9.2-rc-20-unsigned.ipa",
+          "size": 396937718,
+          "minOSVersion": "26.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocationWhenInUseUsageDescription": "Ваше местоположение нужно, чтобы показать вас на карте и выбрать начало маршрута. История перемещений не сохраняется."
+        }
+      }
+    }
+  ],
+  "news": []
+}
