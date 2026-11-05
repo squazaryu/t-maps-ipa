@@ -1,0 +1,12 @@
+*.ipa
+*.ipa.*
+*.tar.zst
+*.p12
+*.pfx
+*.key
+*.pem
+*.p8
+*.cer
+*.mobileprovision
+.env
+.DS_Store
