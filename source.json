@@ -10,20 +10,20 @@
       "bundleIdentifier": "ru.tumowuh.tmaps",
       "developerName": "T-Maps",
       "subtitle": "Карты и маршруты",
-      "localizedDescription": "Личные карты для Москвы и Московской области: поиск мест, карта, маршруты и транспорт. Неподписанный технический кандидат.",
+      "localizedDescription": "Карты Москвы и Московской области: поиск организаций, адресов и маршрутов. Неподписанный технический кандидат для личной подписи в Feather. Геоданные © OpenStreetMap contributors, ODbL 1.0.",
       "iconURL": "https://raw.githubusercontent.com/squazaryu/t-maps-ipa/refs/heads/main/assets/t-maps-icon.png",
       "version": "0.9.2",
       "versionDate": "2026-11-05T11:53:52Z",
-      "downloadURL": "https://github.com/squazaryu/t-maps-ipa/releases/download/v0.9.2-rc.20/T-Maps-0.9.2-rc-20-unsigned.ipa",
-      "size": 396937718,
+      "downloadURL": "https://github.com/squazaryu/t-maps-ipa/releases/download/v0.9.2-rc.20-public.1/T-Maps-0.9.2-rc-20-public.ipa",
+      "size": 396429676,
       "versions": [
         {
           "version": "0.9.2",
           "buildVersion": "20",
           "date": "2026-11-05T11:53:52Z",
-          "localizedDescription": "Поиск по категориям, результаты на карте и значки заведений.",
-          "downloadURL": "https://github.com/squazaryu/t-maps-ipa/releases/download/v0.9.2-rc.20/T-Maps-0.9.2-rc-20-unsigned.ipa",
-          "size": 396937718,
+          "localizedDescription": "Подготовлена публичная упаковка для Feather. Возможности приложения и геоданные не изменены.",
+          "downloadURL": "https://github.com/squazaryu/t-maps-ipa/releases/download/v0.9.2-rc.20-public.1/T-Maps-0.9.2-rc-20-public.ipa",
+          "size": 396429676,
           "minOSVersion": "26.0"
         }
       ],
