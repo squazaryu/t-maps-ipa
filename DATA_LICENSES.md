@@ -14,12 +14,12 @@
 
 ## Полная копия производных баз
 
-Скачать `T-Maps-0.9.2-rc-20-public.ipa` из Assets сборки, проверить SHA-256 по `SHA256SUMS.txt`.
+Скачать `T-Maps-0.10.0-rc-22-public.ipa` из Assets сборки, проверить SHA-256 по `SHA256SUMS.txt`.
 На macOS можно извлечь данные в новую пустую папку:
 
 ```sh
 mkdir osm-data
-unzip -j T-Maps-0.9.2-rc-20-public.ipa 'Payload/CityAtlas.app/moscow-*' -d osm-data
+unzip -j T-Maps-0.10.0-rc-22-public.ipa 'Payload/CityAtlas.app/moscow-*' -d osm-data
 compression_tool -decode -a lzfse -i osm-data/moscow-places.sqlite.lzfse -o osm-data/moscow-places.sqlite
 compression_tool -decode -a lzfse -i osm-data/moscow-routing.tar.lzfse -o osm-data/moscow-routing.tar
 compression_tool -decode -a lzfse -i osm-data/moscow-transit-topology.json.lzfse -o osm-data/moscow-transit-topology.json
